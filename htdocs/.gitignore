@@ -1,0 +1,13 @@
+# Ignore local environment credentials
+config/database.php
+config/admin.php
+
+# Ignore setup script (always run it directly on the host, don't commit it with passwords)
+setup.php
+
+# Ignore local dev router
+router.php
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
