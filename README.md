@@ -59,18 +59,6 @@ Run the built-in development router:
 ```bash
 php -S localhost:8080 router.php
 ```
-Access the application at `http://localhost:8080`.
+Access the application at `https://epictalk.kesug.com`.
 
 ---
-
-## 🚀 Production Deployment (InfinityFree / Apache)
-
-1. Upload the entire contents of the `htdocs/` folder to the server `htdocs/` directory using an FTP client (e.g. FileZilla) or the online File Manager.
-2. In your database panel (phpMyAdmin), verify your database schema tables matching:
-   - `playlists` (id, title, description, image_path, video_url)
-   - `feedback` (id, name, email, feedback)
-   - `contacts` (id, name, email, message)
-   - `registrations` (id, name, email, phone)
-3. Access `http://yourdomain.com/setup.php` in a web browser to enter your desired administrator password and generate the secure configurations hash.
-4. **⚠️ IMPORTANT**: Delete the `setup.php` file from the remote hosting server directory immediately after setup to secure the password hash files.
-5. Your public site will be accessible at `/` and the administration panel at `/admin`.
