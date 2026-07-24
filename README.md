@@ -1,6 +1,9 @@
+<img width="1440" height="791" alt="EpicTalk" src="https://github.com/user-attachments/assets/f9e447a0-993f-4a2a-9d43-7ec972c901c6" />
+
+
 <div align="center">
 
-# 🎙️ Epic Talk — Podcast Portal
+# 🎙️ [Epic Talk Podcast]([https://epictalk.lk](https://epictalk.kesug.com/))
 
 **A fully custom PHP MVC web portal for the Epic Talk podcast, founded in Sri Lanka by Shehan Weragoda.**
 
@@ -249,6 +252,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-Built with ❤️ in Sri Lanka &nbsp;•&nbsp; [Epic Talk Podcast](https://epictalk.lk)
+Built with ❤️ in Sri Lanka &nbsp;•&nbsp; [Epic Talk Podcast]([https://epictalk.lk](https://epictalk.kesug.com/))
 
 </div>
